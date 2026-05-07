@@ -15,22 +15,22 @@ import {
   SiGithub,
   SiGitlab,
   SiDocker,
-} from "react-icons/si";
-import { FaCodeBranch, FaJava } from "react-icons/fa";
-import { TbApi } from "react-icons/tb";
+} from "react-icons/si"
+import { FaCodeBranch, FaJava } from "react-icons/fa"
+import { TbApi } from "react-icons/tb"
 
 export const PROFILE = {
   name: "Gabrielle",
   fullName: "Gabrielle Bouchard",
   title: "Software Developer",
   description:
-    "I am a passionate full-stack developer focused on creating modern and performant web solutions. I enjoy learning new technologies and applying them to build innovative applications.",
+    "Passionate full-stack developer focused on creating modern and performant web solutions. I enjoy learning new technologies and applying them to build innovative applications.",
   email: "gabriellebouchard1999@outlook.com",
   socials: {
     github: "https://github.com/gabrwllz",
     linkedin: "https://www.linkedin.com/in/gabrielle-b-6abb96308/",
   },
-};
+}
 
 export const SKILLS = [
   {
@@ -73,7 +73,7 @@ export const SKILLS = [
       { name: "Docker", icon: SiDocker },
     ],
   },
-];
+]
 
 export const PROJECTS = [
   {
@@ -85,15 +85,14 @@ export const PROJECTS = [
     image: "✈️",
     link: "",
   },
-];
+]
 
 export const EXPERIENCE = [
   {
     role: "Web Developer",
     company: "GoTo Technologies",
     period: "2025 - Present",
-    description:
-      "Development and maintenance of ...",
+    description: "Development and maintenance of ...",
     skills: ["Lit", "TypeScript"],
   },
-];
+]
