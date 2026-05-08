@@ -87,6 +87,8 @@ export const PROJECTS = [
   },
 ]
 
+export const EXPERIENCE_START = new Date("2025-01-01")
+
 export const EXPERIENCE = [
   {
     role: "Web Developer",
