@@ -98,8 +98,18 @@ export const EXPERIENCE = [
   {
     role: "Web Developer",
     company: "GoTo Technologies",
+    url: "https://www.goto.com/",
     period: "2025 - Present",
-    description: "Development and maintenance of ...",
+    description:
+      "Frontend developer on a microfrontend architecture, building and maintaining web components using Lit and TypeScript. Responsible for bug fixes, new feature development.",
     skills: ["Lit", "TypeScript"],
+  },
+  {
+    role: "Software Engineering Bachelor Degree",
+    company: "Université Laval",
+    period: "2024 - 2027",
+    description:
+      "Pursuing a software engineering degree with a focus on building solid foundations in system design, clean code, and modern development practices. Coursework covers algorithms, architecture and full-stack development.",
+    skills: ["C++", "Java", "Python", "SQL", "JavaScript"],
   },
 ]
