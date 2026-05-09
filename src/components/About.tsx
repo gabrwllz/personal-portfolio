@@ -1,3 +1,5 @@
+"use client";
+
 import { PROJECTS } from "@/lib/constants"
 import { getTotalSkills, getYearsOfExperience } from "@/lib/utils"
 
