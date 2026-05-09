@@ -81,9 +81,14 @@ export const PROJECTS = [
     title: "On the fly - Flight tracker",
     description:
       "Web application for tracking flight prices in real time, helping users monitor fare changes and find the best deals for their trips.",
+    longDescription:
+      "A full-stack application that scrapes and monitors flight prices across multiple airlines. Users can set price alerts and track fare trends over time.",
     technologies: ["React", "TypeScript", "Python"],
     image: "✈️",
-    link: "",
+    github: "https://github.com/gabrwllz/flight_track",
+    url: null,
+    favorite: true,
+    date: "2025-05",
   },
 ]
 
